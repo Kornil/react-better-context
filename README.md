@@ -2,6 +2,12 @@
 
 React's context is awesome, but a pain on jsx, having a couple of the applied to a component makes more spaghetti than my italian mother.
 
+Before
+![default](examples/default-context.png)
+
+After
+![better](examples/better-context.png)
+
 ## Install
 
 A version of react >= 16.3 is required for this package, as it contains the [final context specs](https://github.com/facebook/react/blob/master/CHANGELOG.md#1630-march-29-2018).
