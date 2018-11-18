@@ -1,7 +1,12 @@
 {
   "name": "react-better-context",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
+  "homepage": "https://github.com/Kornil/react-better-context",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Kornil/react-better-context"
+  },
   "main": "build/index.js",
   "types": "src/index.d.ts",
   "scripts": {
