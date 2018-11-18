@@ -2,10 +2,12 @@
 
 React's context is awesome, but a pain on jsx, having a couple of the applied to a component makes more spaghetti than my italian mother.
 
-Before
+### Before
+
 ![default](examples/default-context.png)
 
-After
+### After
+
 ![better](examples/better-context.png)
 
 ## Install
