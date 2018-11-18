@@ -1,6 +1,6 @@
 # React better context
 
-React's context is awesome, but a pain on jsx, having a couple of the applied to a component makes more spaghetti than my italian mother.
+React's context is awesome, but a pain on jsx, having a couple of contexts applied to a component makes more spaghetti than my italian mother.
 
 ### Before
 
